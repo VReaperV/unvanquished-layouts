@@ -1,0 +1,12 @@
+This layout a "mission-style" layout in which aliens must
+clean the fortification map after it has been invaded by
+humans.
+It is built for the following rules:
+
+* `/lock h`: prevents players to join alien team;
+* `/bot fill h 6; bot fill a 3`: recommended number of
+	players;
+* 2 human bots per alien (there is currently no way to
+	have the game automatically manage this);
+* `g_disabledClasses builder abuilder` to prevent alien
+	team to build, as this makes the map way too easy to win;
