@@ -76,3 +76,9 @@ station15 {
 Note that it is currently not possible to automatically load
 a specific configuration file depending on the layout, so
 mission-style layouts must be setup manually.
+
+== Navmesh improvements ==
+
+For some PvE layouts, bots needs additional connections to
+travel correctly and give a decent challenge. Those are
+placed in the "map" folder.
