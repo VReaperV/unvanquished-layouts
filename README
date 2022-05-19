@@ -63,7 +63,7 @@ currently no easy to use GUI to help with that:
 	team if necessary;
 * `layoutSave ${LAYOUT}` saves the layout in your unvanquished
 	local folder, under `./game/layouts/${MAP}/${LAYOUT}.dat`;
-* `layoutSave ${LAYOUT}` reloads the map with ${LAYOUT};
+* `layoutLoad ${LAYOUT}` reloads the map with ${LAYOUT};
 * `cg_drawBBox 1` allows you to see the collision boxes of
 	buildings, useful to make sure something can or not be hit,
 	or to ensure a barricade really blocks a door;
