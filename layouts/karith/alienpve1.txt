@@ -1,0 +1,11 @@
+This layout a "mission-style" layout in which humans must
+clean the map after it has been invaded by aliens.
+It is built for the following rules:
+
+* `/lock a`: prevents players to join alien team;
+* `/bot fill a 6; bot fill h 3`: recommended number of
+	players;
+* 2 alien bots per human player (there is currently no way
+	to have the game automatically manage this);
+* `g_disabledEquipements ckit` to prevent human team to
+	build, as this makes the map way too easy to win;
