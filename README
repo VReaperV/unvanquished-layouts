@@ -19,6 +19,25 @@ By convention, files are named as such:
 	players. ${NUM} is a unique number;
 * `${SPECIES}pve${NUM}.txt` to provide rules for PvE layouts;
 
+This repo also includes basic navmesh connection files
+required to help bots navigating.
+Those files named as: "maps/${MAP}-${CLASS}.navcon", where
+${CLASS} must be one of:
+
+* human_bsuit
+* human_naked
+* level0
+* level1
+* level2
+* level2upg
+* level3
+* level3upg
+* level4
+
+Granger navmeshes are intentionally skipped since bots are
+not yet able to choose this class.
+The navmesh files should not be considered reliable.
+
 == Creating layouts ==
 
 Here is a small list of useful commands (you need to spawn
