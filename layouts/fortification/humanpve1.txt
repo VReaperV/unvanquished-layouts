@@ -1,5 +1,5 @@
 This layout a "mission-style" layout in which aliens must
-clean the fortification map after it has been invaded by
+clean the map after it has been invaded by
 humans.
 It is built for the following rules:
 

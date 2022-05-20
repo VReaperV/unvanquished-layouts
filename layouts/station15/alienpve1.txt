@@ -1,5 +1,5 @@
 This layout a "mission-style" layout in which humans must
-clean the station15 after it has been invaded by aliens.
+clean the map after it has been invaded by aliens.
 It is built for the following rules:
 
 * `/lock a`: prevents players to join alien team;
