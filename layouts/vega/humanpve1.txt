@@ -1,0 +1,5 @@
+This layout is a mission style layout. Humans must clear the map of all aliens and alien structures except leeches.
+
+Rules:
+* '/lock alien': Players can only join Humans
+* 2 alien bots per human player. Cannot currently be automated
