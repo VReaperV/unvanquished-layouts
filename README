@@ -1,5 +1,5 @@
-This repo contains various layouts to be used by unvanquished
-server hosts.
+This repo contains various layouts and bot navigation patches
+to be used by unvanquished server hosts.
 
 The "default.dat" layouts are here to allow random selection
 in maprotations.cfg but are simply the builtin layouts
