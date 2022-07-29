@@ -1,0 +1,6 @@
+This is a mission style layout. Humans must eliminate all aliens and reachable alien structures.
+
+Bot/player number balancing requires more testing, likely 2-3 aliens per human player.
+
+- /lock a
+- g_disabledEquipements ckit
