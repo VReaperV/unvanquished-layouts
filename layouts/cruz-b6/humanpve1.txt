@@ -1,0 +1,7 @@
+*The human base in this area has been overrun. Make your way to the hangar and set up there. Your primary objective remains the same: eliminate the alien threat from the area and secure the base.*
+
+Players must get to the hangar and set up nodes and any additional buildings there (the base starts with enough defenses, but no nodes), then clear the area of all aliens and alien structures. The overmind has been placed outside of the playable area of the map, this is intentional. The starting nodes are placed right next to one of the alien bases, this is intentional too.
+
+Alien team should have 3-4 bots per human player, depending on bot skill and amount of players.
+
+- /lock a
