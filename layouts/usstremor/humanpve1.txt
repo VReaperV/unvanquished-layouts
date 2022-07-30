@@ -1,0 +1,10 @@
+*Location: USS Tremor
+Unit: Delta-1 Commando Squad
+Objective: investigate the ship and secure it
+Info: The previously-missing USS Tremor has reappeared on our long-range scanners. Your squad is being sent there to investigate. Due to interference from an unknown source, we cannot teleport you all to one location. Once aboard the ship, you must regroup, find out what happened to the ship an get it back under our control.*
+
+This is a mission layout. Players must reach their base, and clear the map of aliens and their structures (the reacheable ones). Some human structures are placed in the alien bases, this is intentional.
+
+Alien team should have 3-4 bots per human player, depending on bot skill and amount of players. Bots may sometimes require a reset because they might fall into the tunels, and they're unable to get back up from there.
+
+- /lock a
