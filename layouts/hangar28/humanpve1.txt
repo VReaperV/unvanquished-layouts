@@ -1,0 +1,11 @@
+*Location: hangar28
+Unit: Delta-3 Defense Squad
+Objective: secure the area and reach the evacuation point
+Info: hangar28 has been overtaken by alien forces. We do not have enough resources to deploy reinforcements. Clear the area of hostiles and reach the evacuation point at the top of the facility, an evac transport is in-bound.*
+
+This is a mission layout. Players must clear the map of aliens and their structures (the reacheable ones).
+
+Alien team should have 3-4 bots per human player, depending on bot skill and amount of players.
+
+- /lock a
+- g_disabledEquipements ckit
